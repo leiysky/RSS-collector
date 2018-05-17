@@ -14,7 +14,7 @@ And make sure run the application with Python3.
 ## Usage
 
 ```shell
-$ python3 main.py
+$ python3 src/main.py
 ```
 
 ![https://img.shields.io/pypi/pyversions/Django.svg]()
