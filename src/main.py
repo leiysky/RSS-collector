@@ -34,3 +34,4 @@ url_list = ['http://songshuhui.net/feed',
 if (__name__ == '__main__'):
     common.init(url_list)
     runner(run_list)
+        
